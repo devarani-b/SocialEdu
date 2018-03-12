@@ -1,0 +1,18 @@
+Motive
+Considering that there is atleast one smart phone in every house and more people are becoming digitally literate,
+this project aims to design a prototype for a digital platform that gives an opportunity for girl children to educate 
+themselves with the help of volunteers to teach them and empower them to be independent.
+Community driven learning platform where people who have interest in teaching but often don’t get time to go and teach will 
+upload lectures on various school courses. Solution will motivate volunteers via social platforms.
+
+Solution 
+
+Technologies used :
+Backend : Node.JS 
+Database : MongoDB
+Frontend : Ionic Framework for hybrid app development
+
+
+Prototype
+
+https://marvelapp.com/4i3096h/screen/39558093
