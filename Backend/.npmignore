@@ -1,0 +1,13 @@
+.hg/**
+.hgignore
+node_modules/**
+uploads/**
+iflicksdb
+errorsdb
+usersdb
+sessiondb
+iflicksflickUserdb
+iflicksviewdb
+npm-debug.log
+npmgo.bat
+*.db
